@@ -1,0 +1,4 @@
+﻿  Lab7Alg.cpp
+C:\Users\artem\source\repos\Lab7Alg\Lab7Alg\Lab7Alg.cpp(95,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\artem\source\repos\Lab7Alg\Lab7Alg\Lab7Alg.cpp(100,6): warning C4101: v: неиспользованная локальная переменная
+  Lab7Alg.vcxproj -> C:\Users\artem\source\repos\Lab7Alg\Debug\Lab7Alg.exe
