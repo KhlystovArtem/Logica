@@ -1,0 +1,3 @@
+﻿  4star.cpp
+C:\Users\artem\source\repos\4star\4star\4star.cpp(76,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  4star.vcxproj -> C:\Users\artem\source\repos\4star\Debug\4star.exe
