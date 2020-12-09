@@ -1,0 +1,5 @@
+﻿  Lab2AlgTask1.cpp
+C:\Users\artem\source\repos\Lab2AlgTask1\Lab2AlgTask1.cpp(21,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\artem\source\repos\Lab2AlgTask1\Lab2AlgTask1.cpp(63,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\artem\source\repos\Lab2AlgTask1\Lab2AlgTask1.cpp(64,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab2AlgTask1.vcxproj -> C:\Users\artem\source\repos\Lab2AlgTask1\Debug\Lab2AlgTask1.exe
