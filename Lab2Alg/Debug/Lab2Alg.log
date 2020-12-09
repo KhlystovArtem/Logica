@@ -1,0 +1,4 @@
+﻿  Lab2Alg.cpp
+C:\Users\artem\source\repos\Lab2Alg\Lab2Alg.cpp(132,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\artem\source\repos\Lab2Alg\Lab2Alg.cpp(133,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab2Alg.vcxproj -> C:\Users\artem\source\repos\Lab2Alg\Debug\Lab2Alg.exe
