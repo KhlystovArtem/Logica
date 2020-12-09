@@ -1,0 +1,5 @@
+﻿  Lab3.1.cpp
+C:\Users\artem\source\repos\Lab3.1\Lab3.1.cpp(282,6): warning C4101: count: неиспользованная локальная переменная
+C:\Users\artem\source\repos\Lab3.1\Lab3.1.cpp(357,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\artem\source\repos\Lab3.1\Lab3.1.cpp(351): warning C4715: checkVertex: значение возвращается не при всех путях выполнения
+  Lab3.1.vcxproj -> C:\Users\artem\source\repos\Lab3.1\Debug\Lab3.1.exe
